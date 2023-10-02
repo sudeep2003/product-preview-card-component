@@ -25,8 +25,8 @@ For the Frontend Mentor QR code component challenge, I created a QR code compone
 
 ### Links
 
-- Solution URL: [https://github.com/sudeep2003/qr-code-component.git](https://github.com/sudeep2003/qr-code-component.git)
-- Live Site URL: [https://sudeep2003.github.io/qr-code-component/](https://sudeep2003.github.io/qr-code-component/)
+- Solution URL: [https://github.com/sudeep2003/product-preview-card-component.git](https://github.com/sudeep2003/product-preview-card-component.git)
+- Live Site URL: [https://sudeep2003.github.io/product-preview-card-component/](https://sudeep2003.github.io/product-preview-card-component/)
 
 ### Built with
 
